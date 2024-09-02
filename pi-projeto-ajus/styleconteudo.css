@@ -1,0 +1,61 @@
+/* Estilização de Produto 2 */
+
+/* Estilos para o cabeçalho e título */
+.header-title {
+  /*display: flex;*/
+  /*justify-content: space-between;*/
+  width: 100%;
+  background-color: #154b52;
+  /*height: 50px;*/
+  padding: 3px;
+  margin-top: 5px /*100px*/;
+  margin-left: 5px /*150px*/;
+}
+
+/* Estilos para o código */
+.Cabecalho {
+  /*justify-content: space-between;*/
+  color: #d9d9d9;
+  width: 15px;
+}
+
+
+/* Estilos para a tabela */
+table {
+  /*flex-shrink: 0;*/
+  /*display: flex;*/
+  /*justify-content: space-between;*/
+  width: 100%;
+  background-color: #d9d9d9;
+  height: 26px;
+  margin-top: 10px;
+}
+
+/* Estilos para o corpo da página */
+body {
+  background-color: #1c8394;
+}
+
+/* Estilos para o botão */
+.button {
+  background-color: #154b52;
+  color: #d9d9d9;
+  border: 0;
+}
+
+/* Estilos para o botão de edição de produto */
+.editar_produto {
+  background-color: #d9d9d9;
+  border: 0;
+}
+
+/* Estilos para o botão de exclusão de produto */
+.excluir_produto {
+  background-color: #d9d9d9;
+  border: 0;
+}
+
+.registro{
+  background-color: #d9d9d9;
+  margin: 0px;
+}
